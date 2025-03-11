@@ -1,9 +1,11 @@
 /*
 What is the difference between var and dynamic in Dart? Provide an example of each.
-{
+
+
+Answer:
 dynamic: Its type can be changed multiple times in the code.
 var: It takes the type of the first assigned value and cannot be changed.
-}
+
 
 -------------------------------------------------------------------------------------
 
